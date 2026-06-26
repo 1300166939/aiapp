@@ -1,0 +1,18 @@
+{
+  "name": "l3-test-report-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Codex L3 homework app for evidence-backed automated test diagnosis reports.",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node tests/core.test.js"
+  },
+  "keywords": [
+    "codex",
+    "test-knowledge",
+    "report",
+    "l3-homework"
+  ],
+  "author": "Zhang Wei",
+  "license": "MIT"
+}
